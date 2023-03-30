@@ -69,7 +69,7 @@ The app should be visually appealing and easy to use, with clear labels and inpu
 
 ## Screenshot
 
-![alt text](me/public/images/Screenshot 2023-03-30 at 19.08.38.png)
+![alt text](public/images/Screenshot 2023-03-30 at 19.08.38.png)
 
 ## Deplyed page
 
