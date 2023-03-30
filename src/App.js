@@ -31,7 +31,7 @@ function App() {
 
 useEffect(()=> {
   var myHeaders = new Headers();
-  myHeaders.append("apikey", "QGJmserWcZdPHYiNhg1UDm6GTCoB0N4E");
+  myHeaders.append("apikey", "yFj6fdBwuKIk2fccyBi6GKzdVZzxDuwe");
 
   var requestOptions = {
     method: 'GET',
@@ -51,7 +51,7 @@ useEffect(()=> {
 
 useEffect(() => {
   var myHeaders = new Headers();
-  myHeaders.append("apikey", "QGJmserWcZdPHYiNhg1UDm6GTCoB0N4E");
+  myHeaders.append("apikey", "yFj6fdBwuKIk2fccyBi6GKzdVZzxDuwe");
 
   var requestOptions = {
     method: 'GET',
