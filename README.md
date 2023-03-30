@@ -66,11 +66,11 @@ The app should be visually appealing and easy to use, with clear labels and inpu
 
 ## Screenshot
 
-![Alt text](convert-with-me/public/images/Convert App)
+![Alt text](../public/images/Convert App)
 
 ## Deplyed page
 
-https://anamaria9164.github.io/Code-Quiz/
+https://anamaria9164.github.io/convert-with-me/
 
 ## Credits
 
