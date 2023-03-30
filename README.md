@@ -66,7 +66,7 @@ The app should be visually appealing and easy to use, with clear labels and inpu
 
 ## Screenshot
 
-![Alt text](../public/images/Convert App)
+![Screenshot](Convert App)
 
 ## Deplyed page
 
