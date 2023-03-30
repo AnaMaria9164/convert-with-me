@@ -69,7 +69,7 @@ The app should be visually appealing and easy to use, with clear labels and inpu
 
 ## Screenshot
 
-![alt text](08-web-apis-challenge-demo.gif)
+![alt text](Screenshot 2023-03-30 at 19.08.38)
 
 ## Deplyed page
 
